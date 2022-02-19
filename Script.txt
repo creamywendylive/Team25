@@ -1,0 +1,7 @@
+echo "What is your name"
+read name
+echo "Your name is $name"
+echo "$name is a billionaire" 
+echo "Who do you love?"
+read love
+echo "$name loves $love"
